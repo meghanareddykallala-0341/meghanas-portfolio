@@ -1397,7 +1397,8 @@ code {
       width: 100%;
     }
   }
-  
+}
+
 /* Final fix for Hero button alignment */
 .hero .hero-content .hero-buttons {
   display: grid !important;

@@ -24,7 +24,7 @@ function Education() {
             </p>
   
             <p className="education-cgpa">
-              CGPA: 7.87
+              CGPA: 7.88
             </p>
           </div>
         </div>
